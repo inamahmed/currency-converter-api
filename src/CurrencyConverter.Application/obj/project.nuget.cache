@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KabeLnsfCNs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\CurrencyConverterApi\\src\\CurrencyConverter.Application\\CurrencyConverter.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

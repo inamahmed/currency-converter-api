@@ -1,0 +1,15 @@
+C:\Users\Lenovo\CurrencyConverterApi\src\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Application.deps.json
+C:\Users\Lenovo\CurrencyConverterApi\src\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Application.dll
+C:\Users\Lenovo\CurrencyConverterApi\src\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Application.pdb
+C:\Users\Lenovo\CurrencyConverterApi\src\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Domain.dll
+C:\Users\Lenovo\CurrencyConverterApi\src\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Domain.pdb
+C:\Users\Lenovo\CurrencyConverterApi\src\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\CurrencyConverterApi\src\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\CurrencyConverterApi\src\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\CurrencyConverterApi\src\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.AssemblyInfo.cs
+C:\Users\Lenovo\CurrencyConverterApi\src\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\CurrencyConverterApi\src\CurrencyConverter.Application\obj\Debug\net8.0\Currency.FC9E407D.Up2Date
+C:\Users\Lenovo\CurrencyConverterApi\src\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.dll
+C:\Users\Lenovo\CurrencyConverterApi\src\CurrencyConverter.Application\obj\Debug\net8.0\refint\CurrencyConverter.Application.dll
+C:\Users\Lenovo\CurrencyConverterApi\src\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.pdb
+C:\Users\Lenovo\CurrencyConverterApi\src\CurrencyConverter.Application\obj\Debug\net8.0\ref\CurrencyConverter.Application.dll
